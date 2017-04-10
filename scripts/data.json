@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Joe"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Lemon Chicken",
+      "cookingTime": 30,
+      "image": "http://del.h-cdn.co/assets/16/06/980x490/landscape-1455309017-delish-chicken-piccata-2.jpg",
+      "ingredients": ["chicken", "lemon", "thyme"]
+    },
+    {
+      "name": "Beef Stroganoff",
+      "cookingTime": 30,
+      "image": "https://www.gimmesomeoven.com/wp-content/uploads/2014/02/Beef-Stroganoff-1.jpg",
+      "ingredients": ["beef", "mustard", "mushrooms"]
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "cookingTime": 25,
+      "image": "http://img.taste.com.au/zephawkk/w720-h480-cfill-q80/taste/2016/11/chicken-caesar-salad-83105-1.jpeg",
+      "ingredients": ["lettuce", "chicken", "parmesan"]
+    }],
+  "ingredients":[
+    { "name": "lettuce" },
+    { "name": "chicken" },
+    { "name": "parmesan" },
+    { "name": "beef" },
+    { "name": "mustard" },
+    { "name": "mushrooms" },
+    { "name": "chicken" },
+    { "name": "thyme" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "presets": ["es2017"],
+  "plugins": [
+    "lodash",
+    "add-module-exports",
+    "transform-es2015-modules-commonjs"
+  ]
+}
