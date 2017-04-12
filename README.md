@@ -7,7 +7,7 @@ Application is a minimal rest api written in koa.
 - Filter Recipes by name, cooking time and ingredients
 - Retrieve User
 
-### Installation  requirements
+### Application  requirements
 
 - Node v7.6.0
 - MongoDB
