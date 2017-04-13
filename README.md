@@ -2,7 +2,7 @@
 
 Application is a minimal rest api written in koa.
 
-### Implimented features
+### Implemented features
 
 - Filter Recipes by name, cooking time and ingredients
 - Retrieve User
